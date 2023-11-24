@@ -1,5 +1,5 @@
 # Go Live : 
- 📌 https://krnahai.netlify.app/
+ 📌 https://karnahai.netlify.app/
 # Snap
 ![image](https://github.com/Iamaniketgupta/ToDoApp/assets/115345548/54582c72-71d0-44be-83d8-d563942b1242)
 
